@@ -1,0 +1,15 @@
+.area {
+  background-image: url("../../assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.area__slider-wrapper {
+  max-width: 650px;
+  width: 100%;
+  padding: 25px;
+}
