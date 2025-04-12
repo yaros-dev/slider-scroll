@@ -5,7 +5,7 @@ import { ElevenLabsWidget } from "./widt";
 function App() {
   return (
     <div className="App">
-      <Area />
+      // <Area />
       <ElevenLabsWidget />
     </div>
   );
